@@ -1,18 +1,17 @@
-## Kaitseliidu vabatahtlikud arendajad
+# .github
 
-Tere tulemast Kaitseliidu tarkvaraarenduse GitHubi organisatsiooni. See keskkond koondab Kaitseliidu vabatahtlike arendajate, inseneride ja IT-spetsialistide projekte.
+Kaitseliit-ee organisatsiooni ühised vaikefailid. Need kehtivad kõigile organisatsiooni repositooriumitele, millel puudub oma vastav fail.
 
-### Repositooriumid
-* **Privaatsed projektid:** Enamik meie repositooriume on sisekasutuseks ja seetõttu privaatsed.
-* **Avalikud projektid:** Esimesed avalikud repositooriumid lisanduvad peatselt.
+| Fail | Eesmärk |
+|---|---|
+| `profile/README.md` | Organisatsiooni avalik profiil (github.com/Kaitseliit-ee) |
+| `SECURITY.md` | Turvanõrkustest teatamine |
+| `CONTRIBUTING.md` | Panustamise reeglid |
+| `.github/ISSUE_TEMPLATE/` | Vaikimisi issue vormid |
+| `.github/pull_request_template.md` | Vaikimisi PR vorm |
 
-### Kuidas saada ligipääs?
-Kui oled Kaitseliidu liige ja soovid panustada:
-1. Veendu, et Sinu GitHubi kontol on sisse lülitatud **kaheastmeline autentimine (2FA)**.
-2. **Pöördu ligipääsu taotlemiseks oma üksuse ülema poole** ning edasta talle oma GitHubi kasutajanimi.
-
-Ei ole veel Kaitseliidu liige? Uuri liitumise kohta: [kaitseliit.ee](https://www.kaitseliit.ee).
+Liikmetele nähtav profiil asub privaatses repositooriumis `.github-private`.
 
 ---
 
-*English: Official GitHub organization for Estonian Defence League (Kaitseliit) volunteer developers. Most repositories are currently private, with public repositories coming soon. Members can request access through their unit commander.*
+*English: Default community health files for the Kaitseliit-ee organization. They apply to every repository that has no file of its own.*

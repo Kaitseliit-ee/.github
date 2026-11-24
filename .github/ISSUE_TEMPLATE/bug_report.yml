@@ -1,0 +1,30 @@
+name: Veateade
+description: Teata veast või ootamatust käitumisest
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Turvanõrkustest ära teata siin** — vaata SECURITY.md.
+        Ära lisa paroole, tokeneid ega isikuandmeid.
+  - type: textarea
+    id: description
+    attributes:
+      label: Mis juhtus?
+      description: Kirjelda viga ja mida ootasid.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Sammud taasesitamiseks
+      placeholder: |
+        1. ...
+        2. ...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Versioon / keskkond
+      placeholder: nt v1.2.0, Windows 11, Chrome
