@@ -4,7 +4,7 @@ Aitäh, et soovid panustada! Allolevad reeglid kehtivad kõigile organisatsiooni
 
 ## Ligipääs
 
-Ligipääsu saamiseks pöördu oma üksuse ülema poole.
+Ligipääs antakse ainult kutse alusel.
 
 Organisatsioonis on kaks meeskonda:
 - **Vabatahtlikud** (`@Kaitseliit-ee/vabatahtlikud`) — panustajad, kes teevad muudatusi ja avavad pull requeste.
@@ -35,7 +35,7 @@ Loo uued repositooriumid mallist [Kaitseliit-ee/repo-template](https://github.co
 
 ## Contributing (English)
 
-- Request access through your unit commander.
+- Access is by invitation only.
 - Two teams: **Vabatahtlikud** (volunteer contributors) and **KL arendajad** (KL developers, reviewers).
 - Forking private repositories is disabled: create a branch in the repository, open a pull request to `main`, fill in the PR template. Review is requested from `@Kaitseliit-ee/kl-arendajad` automatically.
 - A pull request can be merged only after approval from **KL arendajad**; the last pusher cannot approve their own changes. Direct pushes, force-pushes and deletion of `main`/`master` are blocked.

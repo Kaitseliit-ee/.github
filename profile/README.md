@@ -6,11 +6,11 @@ Tere tulemast Kaitseliidu tarkvaraarenduse GitHubi organisatsiooni. See keskkond
 * **Privaatsed projektid:** Enamik meie repositooriume on sisekasutuseks ja seetõttu privaatsed.
 * **Avalikud projektid:** Esimesed avalikud repositooriumid lisanduvad peatselt.
 
-### Kuidas saada ligipääs?
-Kui oled Kaitseliidu liige ja soovid panustada, **pöördu ligipääsu taotlemiseks oma üksuse ülema poole** ning edasta talle oma GitHubi kasutajanimi.
+### Ligipääs
+Ligipääs organisatsioonile antakse **ainult kutse alusel**, lähtudes Kaitseliidu projektide vajadustest.
 
-Ei ole veel Kaitseliidu liige? Uuri liitumise kohta: [kaitseliit.ee](https://www.kaitseliit.ee).
+Kaitseliidu kohta loe lähemalt: [kaitseliit.ee](https://www.kaitseliit.ee).
 
 ---
 
-*English: Official GitHub organization for Estonian Defence League (Kaitseliit) volunteer developers. Most repositories are currently private, with public repositories coming soon. Members can request access through their unit commander.*
+*English: Official GitHub organization for Estonian Defence League (Kaitseliit) volunteer developers. Most repositories are currently private, with public repositories coming soon. Access is by invitation only, based on the needs of Kaitseliit projects.*
